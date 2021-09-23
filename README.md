@@ -7,6 +7,13 @@
 - ⚡ Even if it's completely different, i love studying for my curiosity.
 
 
+## 📕 Interested in ...
+- Compiler
+- Smali
+- Network
+- CI/CD
+- AI
+
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnOldStory)](https://hits.seeyoufarm.com)
