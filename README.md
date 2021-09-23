@@ -8,10 +8,10 @@
 
 
 ## 📕 Interested in ...
-- Compiler
-- Smali
-- Network
 - CI/CD
+- Compiler
+- Network
+- Smali
 - AI
 
 <br/>
