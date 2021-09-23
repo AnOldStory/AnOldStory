@@ -9,6 +9,7 @@
 
 ## 📕 Interested in ...
 - CI/CD
+- k8s
 - Compiler
 - Network
 - Smali
