@@ -4,7 +4,7 @@
 
 # ✨ Hello! I'm HyeongChang. 👋
 <!--- 🔭 I’m currently working on Korean Army!-->
-- ⚡ Even if it's completely different, i love studying for my curiosity.
+<!--- - ⚡ Even if it's completely different, i love studying for my curiosity.-->
 
 
 ## 📕 Interested in ...
