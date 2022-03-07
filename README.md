@@ -11,8 +11,6 @@
 - DevOps
 - Compiler
 - Network
-- Smali
-- AI
 
 <br/>
 
