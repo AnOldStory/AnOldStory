@@ -1,6 +1,7 @@
 [facebook]: https://www.facebook.com/hc9904
 [instagram]: https://www.instagram.com/anoldstory_
 [kakaotalk]: https://open.kakao.com/me/uuu
+[linkedin]: https://www.linkedin.com/in/anoldstory
 <!-- -->
 
 # ✨ Hello! I'm HyeongChang. 👋
@@ -23,6 +24,7 @@
 [<img align="left" alt="AnOldStory | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="AnOldStory | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AnOldStory | kakaotalk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/kakaotalk.svg" />][kakaotalk]
+[<img align="left" alt="AnOldStory | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />][linkedin]
 
 <!--
 **AnOldStory/AnOldStory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
